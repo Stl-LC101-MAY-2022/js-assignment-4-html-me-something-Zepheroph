@@ -2,16 +2,47 @@
 
 body {
     background-color: lightblue;
+    color: black;
+    margin: 8px;
   }
   
   h1,h2,h3,h4 {
-    color: black;
+    color: black; 
     text-align: center;
     font-size: 35px;
   }
   
+br {
+    text-align: justify;
+}
+
+/* article{
+    font-size: ;
+} */
+
+#picture {
+    border: 3px solid #ccc;
+    text-align: center;
+}
+
   p {
-    font-family: verdana;
+    font-family: lucida ;
     font-size: 20px;
   }
   
+dl {
+    color:  orangered;
+}
+
+.testParagraph {
+    font-size: 25;
+    color: darkslategrey;
+}
+
+ .funParagraph{
+    color: green;
+}
+
+#mainHeading {
+    color: darkred;
+}
